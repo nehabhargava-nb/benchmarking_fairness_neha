@@ -1,0 +1,11 @@
+{
+    "privileged_vals": {
+        "sensitiveattr": 0
+    },
+    "sensitive_dict": {
+        "sensitiveattr": [
+            0,
+            1
+        ]
+    }
+}
